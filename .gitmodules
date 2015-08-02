@@ -1,0 +1,3 @@
+[submodule "sub/nx-cli"]
+	path = sub/nx-cli
+	url = git@github.com:alienlaboratories/nx-cli.git
