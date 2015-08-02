@@ -7,7 +7,7 @@ class NxCli < Formula
   homepage "https://github.com/alienlaboratories/nx-cli"
   url "https://github.com/alienlaboratories/nx-cli/archive/0.0.2.tar.gz"
   version "0.0.2"
-  sha256 "0e7f92baec9898dcb138d4190092bb3587b956560387064cbd9713618f7b630c"
+  sha256 "bc1854e001946bd55117140f043ea8dd8cdcd48fe80edfe81cd0f6208414ffdf"
 
   def install
     libexec.install "nexus.sh", "nexus.py"
